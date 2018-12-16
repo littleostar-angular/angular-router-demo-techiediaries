@@ -3,10 +3,13 @@
 
 ---
 
+- from
+  - origin demo from techiediaries blog, delete component array use observable provide data.
+
 - access demo:
-- [demo](https://littleostar-angular.github.io/angular-router-demo-techiediaries/)
-- [products](https://littleostar-angular.github.io/angular-router-demo-techiediaries/products)
-- [product/5](https://littleostar-angular.github.io/angular-router-demo-techiediaries/product/5)
+  - [demo](https://littleostar-angular.github.io/angular-router-demo-techiediaries/)
+  - [products](https://littleostar-angular.github.io/angular-router-demo-techiediaries/products)
+  - [product/5](https://littleostar-angular.github.io/angular-router-demo-techiediaries/product/5)
 
 ---
 
